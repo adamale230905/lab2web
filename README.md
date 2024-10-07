@@ -39,7 +39,7 @@ jawaban:
       •	ID selector (#paragraf-1) memiliki prioritas lebih tinggi dibandingkan Class selector (.text-paragraf)
       •	Dalam contoh di atas, teks akan berwarna MERAH dan ukuran font 14px, mengikuti style dari ID selector
       •	Ini karena ID bersifat unik dan lebih spesifik dibandingkan Class
-4.Secara umum, urutan prioritas CSS (specificity) dari tinggi ke rendah adalah:
+  	.Secara umum, urutan prioritas CSS (specificity) dari tinggi ke rendah adalah:
       .	Inline styles
       .	ID selectors
       .	Class selectors, attributes selectors, dan pseudo-classes
